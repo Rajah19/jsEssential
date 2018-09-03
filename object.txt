@@ -1,0 +1,6 @@
+# Objects
+
+# Function types
+Named functions
+Anonymous functions, do not name function name
+Immediately invoked function expressions 

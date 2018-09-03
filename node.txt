@@ -1,0 +1,32 @@
+# Load JS files ( HTTP 2 )
+Right away loading
+Asynchronous loading
+Deferred loading
+
+Rules
+1) Case Sensitive matter
+2) Use camelCase
+   variables start with lowercase
+   Object and classes start with uppercase letter
+   Constants are all-caps
+3) Whitespace Matters to Humans
+4) End each statement with a semicolon ( code readable )
+5) Use Comments Liberally
+
+#Working with data
+## Variables can not start with number, works for others.
+
+## Data Types
+Numeric
+String
+Boolean
+Null
+Undefined  - creatd a varibale but not set anything
+Symbol -es6 
+
+## Operators
+Assignment Operators =
+Arithmetic Operators +, -, * and /
+Algebra Rules 
+Shorthand Math: +=, -=, *= and /=
+Unary Operators: ++, --
